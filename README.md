@@ -1,1 +1,1 @@
-# Separate-the-Numbers-algo
+# Separate-the-Numbers-algo The function tries every possible starting number and builds a sequence by adding consecutive numbers as strings. If the constructed sequence matches the input, it prints "YES" followed by the first number; otherwise, it prints "NO".
